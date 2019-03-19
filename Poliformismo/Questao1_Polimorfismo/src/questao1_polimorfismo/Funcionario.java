@@ -17,7 +17,8 @@ public class Funcionario implements Login{
     private String dataNascimento;
     private String funcao;
     private String senha;
-
+    
+    //Getters e Setters Method
     public String getNome() {
         return nome;
     }

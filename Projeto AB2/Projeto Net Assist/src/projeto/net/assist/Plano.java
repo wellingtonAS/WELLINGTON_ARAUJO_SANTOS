@@ -13,7 +13,7 @@ public class Plano {
     private int id;
     public int velocidade;
     public float valor;
-
+    
     public int getId() {
         return id;
     }
