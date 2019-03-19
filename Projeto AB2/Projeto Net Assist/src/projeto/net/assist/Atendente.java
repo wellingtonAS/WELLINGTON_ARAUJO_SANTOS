@@ -26,6 +26,9 @@ public class Atendente extends Funcionario implements Pagamento{
     public void consultarCliente(){
         
     }
+    public void encerrarOs(){
+        
+    }
     //Initializing sessao with Atendente
     @Override
     public void iniciarSessao(){
